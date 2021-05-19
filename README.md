@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DREADNAUGHT160
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me evinbthaikkattil@gmail.com
 
 <!---
