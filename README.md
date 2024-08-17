@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DREADNAUGHT160
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in Python coding
+- 🌱 I’m currently more focused on AI-based projects mainly in preception.
+- 💞️ I’m looking to collaborate on python, AI projects.
 - 📫 How to reach me evinbthaikkattil@gmail.com
 
 <!---
