@@ -37,3 +37,8 @@ When you **dive in** and **take action**, you truly grasp the concepts. By **bui
 ### So take the plunge! 💪
 Don’t just watch tutorials—**write the code**, **solve the problem**, and **build the project**. Every hands-on experience brings you closer to mastering AI, robotics, and Python development. Remember, the best way to learn is by **doing**!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DREADNAUGHT160/DREADNAUGHT160/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DREADNAUGHT160/DREADNAUGHT160/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DREADNAUGHT160/DREADNAUGHT160/output/github-snake.svg" />
+</picture>
