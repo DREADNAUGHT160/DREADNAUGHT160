@@ -11,7 +11,7 @@ I'm a Mechatronics graduate currently pursuing my Master's in AI Engineering of 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dreadnaught160&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreadnaught160&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
@@ -19,21 +19,21 @@ I'm a Mechatronics graduate currently pursuing my Master's in AI Engineering of 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-🛠️ On the tech side, I’m a **self-taught Python programmer** with a love for solving problems through code and exploring the limitless possibilities of AI. My focus is on developing smart, autonomous systems that can revolutionize industries and everyday life.
+ On the tech side, I’m a **self-taught Python programmer** with a love for solving problems through code and exploring the limitless possibilities of AI. My focus is on developing smart, autonomous systems that can revolutionize industries and everyday life.
 
-🔍 I’m always on the lookout for exciting projects, collaborations, and learning opportunities in AI, robotics, and Python development. Let’s create something innovative together!
-# 🌟 What you hear, you may forget.
+ I’m always on the lookout for exciting projects, collaborations, and learning opportunities in AI, robotics, and Python development. Let’s create something innovative together!
+#  What you hear, you may forget.
 Listening to others can provide insight, but it’s easy for knowledge to slip away without action.
 
-# 👀 What you see, you remember.
+#  What you see, you remember.
 Observing examples, projects, and demonstrations can help concepts stick, but seeing alone isn't enough for mastery.
 
-# 💡 What you do, you understand.
+#  What you do, you understand.
 When you **dive in** and **take action**, you truly grasp the concepts. By **building**, **coding**, and **experimenting**, you unlock real understanding and gain experience that sticks with you.
 
 ---
 
-### So take the plunge! 💪
+### So take the plunge! 
 Don’t just watch tutorials—**write the code**, **solve the problem**, and **build the project**. Every hands-on experience brings you closer to mastering AI, robotics, and Python development. Remember, the best way to learn is by **doing**!
 
 <picture>
